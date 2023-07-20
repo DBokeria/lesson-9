@@ -1,0 +1,343 @@
+@media (max-width:1440px){
+    .nav-box{
+        width: 366px;
+        position: absolute;
+        top: 40px;
+        left: 250px;
+    }
+    .red-box{
+        width: 78px;
+        height: 40px;
+        background-color: #F84646;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        position: absolute;
+        top: 35px;
+        right: 53px;    
+    }
+    .section-one{
+        background-image: url(../image/background\ image\ 2.svg);
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .first-box{
+        position: absolute;
+        top: 161px;
+        left: 84px;
+    }
+    h1{
+        font-family: 'Manrope';
+        font-size: 64px;
+        font-weight: 800;
+        line-height: 84px;
+        color: black;
+    }
+    .h1-p{
+        margin-top: 93px;
+        width: 565px;
+        font-family: 'Manrope';
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 36px;
+        color: black;
+    }
+    /* till here full first section*/
+
+    .title-two-p-div{
+        width: 852px;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+  /* first div of second section */
+    
+    .big-conteiner-one{
+       width: 764px;
+       height: 797.38px;
+       margin: 0 auto;
+       margin-top: 100px;
+       display: flex;
+       justify-content: space-between;
+       align-content: space-between;
+       flex-wrap: wrap;
+    }   
+/* second div of second section */
+    .big-conteiner-two{
+       width: 904px;
+       height: 404px;
+       margin: 0 auto;
+       margin-top: 152px;
+       display: flex;
+       justify-content: space-between;
+       align-content: space-between;
+       flex-wrap: wrap;
+    }
+/*therd div of second section */
+    .big-conteiner-three{
+        width: 904px;
+        height: 404px;
+        margin: 0 auto;
+        margin-top: 120px;
+        display: flex;
+        justify-content: space-between;
+        align-content: space-between;
+        flex-wrap: wrap;
+    }    
+/* therd div of second section text  */   
+    .big-conteiner-two-text{
+        width: 428px;
+        height: 404px;
+    }
+    .conteiner-two-h{
+        font-family: 'Manrope';
+        font-size: 58px;
+        font-weight: 700;
+        line-height: 59.5px;
+        color: black;
+    }
+    .conteiner-two-p{
+        width: 428px;
+        margin-top: 79px;
+        font-family: 'Manrope';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 28.5px;
+        color: #808080;
+    }
+    .next-red-box{
+        margin-top: 46px;
+        width: 160px;
+        height: 48px;
+        background-color: #F84646;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+/* images style */
+    .big-conteiner-two-img-div{
+        width: 428px;
+        height: 404px;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .conteiner-two-img-one{
+        width: 100%;
+    }
+    .conteiner-two-img-two{
+        display: none;
+    }
+    /* footer full */
+    footer{
+        width: 100%;
+        height: 530px;
+        background-color: #F8464a;
+        margin-top: 71px;
+        position: relative;
+    }
+    .footer-div{
+        width: 903px;
+        height: 304px;
+        position: absolute;
+        top: 80px;
+        left: 61px;
+        display: flex;
+        justify-content: space-between;
+    }
+    .socia-net{
+        width: 176px;
+        position: absolute;
+        top: 468.17px;
+        left: 740px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+/* //////responsive from 1024px //////////////*/
+
+@media(max-width:1024px){
+    .section-one{
+        position: relative;
+        background-color: aqua;
+        width: 100%;
+    }
+    .nav-box{
+        display: none;
+    }
+    .red-box{
+        width: 78px;
+        height: 40px;
+        background-color: #F84646;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        position: absolute;
+        top: 35px;
+        right: 33px;    
+    }
+
+    .first-box{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 335px;
+        height: 380px;
+        margin: 0 auto;
+        
+    }
+    h1{
+        text-align: center;
+        font-family: 'Manrope';
+        font-size: 42px;
+        font-weight: 800;
+        line-height: 57.5px;
+        color: black;
+    }
+    .h1-p{
+        text-align: center;
+        margin-top: 130px;
+        width: 335px;
+        font-family: 'Manrope';
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 36px;
+        color: black;
+    }
+    /* <<<<< Next from main background image >>>>>>> */
+
+    .title-two{
+        margin-top: 60px;
+        text-align: center;
+        font-family: 'Manrope';
+        font-size: 36px;
+        font-weight: 800;
+        color: black;
+    }
+    .title-two-p-div{
+        width: 334px;
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    .title-two-p{
+        text-align: center;
+        font-family: 'Manrope';
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 22px;
+        color: black;
+    }
+   /* <<< first div   >>>>>> */
+
+    .big-conteiner-one{
+        width: 335px;
+        height: 1665px;
+        margin: 0 auto;
+        margin-top: 50px;
+        display: flex;
+        justify-content: space-between;
+        align-content: space-between;
+        flex-wrap: wrap;
+     }   
+   /* second div */
+
+     .big-conteiner-two{
+        width: 338px;
+        height: 793px;
+        margin: 0 auto;
+        margin-top: 80px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap-reverse;
+        align-content: space-between;
+    }
+    /* therd div */
+    .big-conteiner-three{
+        width: 338px;
+        height: 733px;
+        margin: 0 auto;
+        margin-top: 44px;
+        display: flex;
+        justify-content: space-between;
+        align-content: space-between;
+        flex-wrap: wrap;
+    }
+    /* change image and text responsive */
+    .big-conteiner-two-text{
+        width: 338px;
+        height: 451px;
+    
+    }
+    .big-conteiner-two-img-div{
+        background-image: url(../image/Illustration\ 3.svg);
+        width: 335px;
+        height: 312px;
+    }
+    .conteiner-two-h{
+        text-align: center;
+        font-family: 'Manrope';
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 51.5px;
+        color: black;
+    }
+    .conteiner-two-p{
+        text-align: center;
+        width: 336px;
+        margin-top: 61px;
+        font-family: 'Manrope';
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 28.5px;
+        color: #808080;
+    }
+    /* second and therd divs red box responsive */
+    .next-red-box{
+        margin: 0 auto;
+        margin-top: 40px;
+        width: 338px;
+        height: 108px;
+        background-color: #F84646;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+    .transformation{
+        margin: 0 auto;
+        margin-top: 40px;
+        width: 338px;
+        height: 48px;
+        background-color: #F84646;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8px;
+    }
+    /* footer responsive */
+    footer{
+        width: 100%;
+        height: 1340px;
+        background-color: #F8464a;
+        margin-top: 51px;
+        position: relative;
+    }
+    .footer-div{
+        width: 259px;
+        height: 1027px;
+        position: absolute;
+        top: 80px;
+        left: 20px;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .socia-net{
+        display: none;
+    }
+}

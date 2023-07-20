@@ -1,0 +1,258 @@
+.nav-box{
+    width: 366px;
+    position: absolute;
+    top: 40px;
+    left: 201px;
+
+}
+.nav-box-items{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-box-items-li{
+    font-family: 'Manrope';
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20px;
+    color: black;
+}
+.red-box{
+    width: 78px;
+    height: 40px;
+    background-color: #F84646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    position: absolute;
+    top: 35px;
+    right: 135px;    
+}
+
+.red-box-item{
+    color: #fff;
+}
+
+
+
+.section-one{
+    background-image: url(../image/background\ photo.svg);
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.first-box{
+    position: absolute;
+    top: 200px;
+    left: 122px;
+}
+
+h1{
+    font-family: 'Manrope';
+    font-size: 64px;
+    font-weight: 800;
+    line-height: 84px;
+    color: black;
+}
+.h1-p{
+    margin-top: 102px;
+    width: 650px;
+    font-family: 'Manrope';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 36px;
+    color: black;
+}
+
+
+
+.title-two{
+    margin-top: 122px;
+    text-align: center;
+    font-family: 'Manrope';
+    font-size: 36px;
+    font-weight: 800;
+    color: black;
+}
+.title-two-p-div{
+    width: 994px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.title-two-p{
+    text-align: center;
+    font-family: 'Manrope';
+    font-size: 24px;
+    font-weight: 400;
+    color: black;
+}
+
+.big-conteiner-one{
+    width: 1153px;
+    height: 508px;
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+.child-box{
+    width: 298px;
+
+}
+.grandson-box{
+    width: 76px;
+    margin: 0 auto;
+    position: relative;
+    
+}
+.grandson-box-img{
+    position: absolute;
+    top: 0px;
+    left: 50px;
+}
+.child-box-title{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Manrope';
+    font-weight: 800;
+    font-size: 36px;
+    color: black;
+}
+.child-box-p{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Manrope';
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+
+.big-conteiner-two{
+    width: 1197px;
+    height: 480px;
+    margin: 0 auto;
+    margin-top: 174px;
+    display: flex;
+    justify-content: space-between;
+    align-content: space-between;
+}
+.conteiner-two-h{
+    font-family: 'Manrope';
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 76px;
+    color: black;
+}
+.conteiner-two-p{
+    width: 523px;
+    margin-top: 116px;
+    font-family: 'Manrope';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #808080;
+}
+.next-red-box{
+    margin-top: 80px;
+    width: 160px;
+    height: 48px;
+    background-color: #F84646;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+span{
+    font-family: 'Manrope';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    color: #fff;
+}
+
+.big-conteiner-three{
+    width: 1197px;
+    height: 480px;
+    margin: 0 auto;
+    margin-top: 120px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.big-conteiner-two-img-div{
+    background-image: url(../image/Illustration\ 3.svg);
+    width: 504px;
+    height: 408px;
+}
+.conteiner-two-img-one{
+    width: 100%;
+}
+.conteiner-two-img-two{
+    width: 100%;
+}
+.conteiner-two-img-three{
+    display: none;
+}
+
+footer{
+    width: 100%;
+    height: 530px;
+    background-color: #F8464a;
+    margin-top: 87px;
+    position: relative;
+}
+.footer-div{
+    width: 1034px;
+    height: 304px;
+    position: absolute;
+    top: 80px;
+    left: 104px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-div-box-one{
+    width: 182px;
+    height: 304px;
+}
+h4{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #fff;
+    height: 24px;
+}
+.h4-paragaf{
+    font-family: 'Inter';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 32px;
+    color: #e6e6e6;
+    height: 32px;
+    margin-top: 24px;
+}
+.footer-div-box-two{
+    width: 249px;
+    height: 248px;
+}
+.footer-div-box-three{
+    width: 152px;
+    height: 192px;
+}
+.footer-div-box-four{
+    width: 151px;
+    height: 136px;
+}
+.socia-net{
+    width: 176px;
+    position: absolute;
+    top: 451px;
+    left: 1118px;
+    display: flex;
+    justify-content: space-between;
+}

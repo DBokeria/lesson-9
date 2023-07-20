@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Manrope';
+    src: url('../font/manrope/Manrope-ExtraBold.eot');
+    src: url('Manrope-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../font/manrope/Manrope-ExtraBold.woff2') format('woff2'),
+        url('../font/manrope/Manrope-ExtraBold.woff') format('woff'),
+        url('../font/manrope/Manrope-ExtraBold.ttf') format('truetype'),
+        url('../font/manrope/Manrope-ExtraBold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Manrope';
+    src: url('../font/manrope/manrope-regular/Manrope-Regular.eot');
+    src: url('Manrope-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../font/manrope/manrope-regular/Manrope-Regular.woff2') format('woff2'),
+        url('../font/manrope/manrope-regular/Manrope-Regular.woff') format('woff'),
+        url('../font/manrope/manrope-regular/Manrope-Regular.ttf') format('truetype'),
+        url('../font/manrope/manrope-regular/Manrope-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/inter/bold/Inter-Bold.eot');
+    src: url('Inter-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../font/inter/bold/Inter-Bold.woff2') format('woff2'),
+        url('../font/inter/bold/Inter-Bold.woff') format('woff'),
+        url('../font/inter/bold/Inter-Bold.ttf') format('truetype'),
+        url('../font/inter/bold/Inter-Bold.svg') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('../font/inter/regular/Inter-Regular.eot');
+    src: url('Inter-Regular.eot?#iefix') format('embedded-opentype')
+        url('../font/inter/regular/Inter-Regular.woff2') format('woff2'),
+        url('../font/inter/regular/Inter-Regular.woff') format('woff'),
+        url('../font/inter/regular/Inter-Regular.ttf') format('truetype'),
+        url('../font/inter/regular/Inter-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
